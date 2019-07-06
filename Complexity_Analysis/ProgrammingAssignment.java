@@ -9,6 +9,10 @@ import java.io.PrintWriter;
 * @author Marco Zuniga
 * @version 07/09/18
 * COMP 3270 Programming Assignment
+* Multiple algorithms used on an 
+  array to determine each algorithm's 
+  time complexity. Each algorithm finds the 
+  the biggest subset in an array which includes negative numbers.
 */
 
 public class ProgrammingAssignment {
